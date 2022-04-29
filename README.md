@@ -24,3 +24,13 @@ If you reformat, get a new IP (VPN), or trying something else besides buying a n
 The way to fix this problem is by using a real, working HWID Spoofer 2021 so that you look like you are using a different PC. Our new product incorporates ring 0, making it one of the safest spoofers on the market.
 
 Once you purchase from us, we give you access to a VIP forum, and you can use the spoofer on just about every game you play. Our existing users highly recommend our products to help you avoid being detected. We also have the best Rust hack in the world if you love great PC games.
+
+TESTED Games
+-Valorant
+-Apex Legends
+-Call Of Duty Vanguard
+-PUBG
+-Overwatch
+-RUST
+-RSS
+-Fall Guys
