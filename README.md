@@ -2,6 +2,7 @@
 Generate HWID Without Formatting Drives or Up/Down Bios
 
 ![HWIDSpoofer](https://raw.githubusercontent.com/tylerburden22/HWID-Spoofer/main/hwid.jpg)
+![HWIDSpoofer](https://raw.githubusercontent.com/tylerburden22/HWID-Spoofer/main/mobo.jpg)
 
 What is HWID Spoofer?
 When you play any computer product the developer will look at your HWID on your computer, this includes your modem, graphic card, motherboard, monitor, etc. Easy Anticheat is really nasty about finding all your information and catching new cheaters. We also have one of the best New World hacks online. We have the only working COD Warzone HWID Spoofer or on the market.
