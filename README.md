@@ -1,5 +1,6 @@
 # HWID-Spoofer
 Generate HWID Without Formatting Drives or Up/Down Bios
+<<<<<<< HEAD
 
 ![HWIDSpoofer](https://raw.githubusercontent.com/tylerburden22/HWID-Spoofer/main/hwid.jpg)
 
@@ -34,3 +35,5 @@ TESTED Games
 -RUST
 -RSS
 -Fall Guys
+=======
+>>>>>>> parent of 614140a (Update README.md)
